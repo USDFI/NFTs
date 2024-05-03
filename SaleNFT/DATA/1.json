@@ -1,1 +1,7 @@
-{"name":"USDFI Pioneer NFT","createdBy":"USDFI-Team","yearCreated":"2024","description":"Bronze NFT - This Bronze NFT is awarded to participants who achieved at least 1,000 points during the 2023 Token Sale. It symbolizes participation in this significant event and serves as a token of gratitude for ongoing support and loyalty to the USDFI project.","image":"LINK","media":{"uri":"LINK"},"tags":["MEMBERSHIP","TROPHY","USDFI"]}
+{
+  "name": "USDFI Pioneer NFT",
+  "description": "Bronze NFT - This Bronze NFT is awarded to participants who achieved at least 1,000 points during the 2023 Token Sale. It symbolizes participation in this significant event and serves as a token of gratitude for ongoing support and loyalty to the USDFI project.",
+  "image": "https://turquoise-left-quelea-271.mypinata.cloud/ipfs/Qma7E4njVas9EiEPpfJPWU2XJ4auwekDYHdsvW29Fmvf3U",
+  "edition": 1,
+  "date": 1714730386,
+  "attributes": [{"trait_type":"Membership","value":"Bronze"},{"trait_type":"Type","value":"Trophy"},{"trait_type":"Projekt","value":"USDFI"}]}
