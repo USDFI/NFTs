@@ -1,1 +1,7 @@
-{"name":"USDFI Pioneer NFT","createdBy":"USDFI-Team","yearCreated":"2024","description":"Silver NFT - The Silver NFT is intended for participants who collected at least 3,000 points during the 2023 Token Sale. This NFT marks its bearers as significant supporters and additionally offers access to the special USDFI beer, which serves as an expression of appreciation.","image":"LINK","media":{"uri":"LINK"},"tags":["MEMBERSHIP","TROPHY","USDFI"]}
+{
+  "name": "USDFI Pioneer NFT",
+  "description": "Silver NFT - The Silver NFT is intended for participants who collected at least 3,000 points during the 2023 Token Sale. This NFT marks its bearers as significant supporters and additionally offers access to the special USDFI beer, which serves as an expression of appreciation.",
+  "image": "https://turquoise-left-quelea-271.mypinata.cloud/ipfs/QmaCmAnUvjZCcPHfVKoYjga1wW4pCodw9C3zWnRQN7SnxS",
+  "edition": 1,
+  "date": 1714730386,
+  "attributes": [{"trait_type":"Membership","value":"Silver"},{"trait_type":"Type","value":"Trophy"},{"trait_type":"Projekt","value":"USDFI"}]}
