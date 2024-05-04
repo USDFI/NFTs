@@ -1,1 +1,7 @@
-{"name":"USDFI Pioneer NFT","createdBy":"USDFI-Team","yearCreated":"2024","description":"Gold NFT --The Gold NFT is awarded to the most outstanding supporters during the 2023 Community Sale. This NFT recognizes not only participation but also the extraordinary commitment to the USDFI project. Holders received exclusive access to the USDFI beer and guaranteed access to future beta tests, enabling them to be among the first to experience new developments.","image":"LINK","media":{"uri":"LINK"},"tags":["MEMBERSHIP","TROPHY","USDFI"]}
+{
+  "name": "USDFI Pioneer NFT",
+  "description": "Gold NFT --The Gold NFT is awarded to the most outstanding supporters during the 2023 Community Sale. This NFT recognizes not only participation but also the extraordinary commitment to the USDFI project. Holders received exclusive access to the USDFI beer and access to future special beta tests, enabling them to be among the first to experience new developments.",
+  "image": "https://turquoise-left-quelea-271.mypinata.cloud/ipfs/QmYF4d9Er47mTCXua5E45RocNv333s1JSgM7vouCUm4i6z",
+  "edition": 1,
+  "date": 1714730386,
+  "attributes": [{"trait_type":"Membership","value":"Gold"},{"trait_type":"Type","value":"Trophy"},{"trait_type":"Projekt","value":"USDFI"}]}
